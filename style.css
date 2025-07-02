@@ -1,0 +1,32 @@
+body {
+  background-color: #f5f4f0;
+  font-family: "Open Sans", sans-serif;
+}
+.conteudo {
+  display: grid;
+  justify-content: center;
+  padding-top: 88px;
+  padding-bottom: 88px;
+}
+.conteudo img {
+  width: 1320px;
+  border-radius: 28px;
+}
+
+.estreito {
+  object-fit: cover;
+  height: 350px;
+  margin-top: 48px;
+  margin-bottom: 20px;
+}
+.center {
+  text-align: center;
+  margin-top: 80px;
+}
+h4 {
+  color: #e1624f;
+}
+hr {
+  border: 1px solid #d9d9d9;
+  margin: 40px;
+}
